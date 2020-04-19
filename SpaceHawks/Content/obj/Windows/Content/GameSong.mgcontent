@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/GameSong.mp3</SourceFile>
+  <SourceTime>2020-02-10T22:31:36.7581021+01:00</SourceTime>
+  <DestFile>C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/GameSong.xnb</DestFile>
+  <DestTime>2020-02-25T20:39:18.1415015+01:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/GameSong.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

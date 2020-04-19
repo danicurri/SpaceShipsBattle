@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/../../PICS/nave.png</File>
+    <File>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/Arial.spritefont</File>
+    <File>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/disparo.png</File>
+    <File>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/enemigo.jpg</File>
+    <File>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/enemigo1.png</File>
+    <File>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/fire.wav</File>
+    <File>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/GameSong.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>nave.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

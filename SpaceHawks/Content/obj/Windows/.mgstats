@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/../../PICS/nave.png","C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/bin/Windows/nave.xnb","TextureProcessor","Texture2DContent",896,25429,0.3431331
+"C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/Arial.spritefont","C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/bin/Windows/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70673,0.4371033
+"C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/disparo.png","C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/bin/Windows/disparo.xnb","TextureProcessor","Texture2DContent",150,1109,0.1079939
+"C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/enemigo.jpg","C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/bin/Windows/enemigo.xnb","TextureProcessor","Texture2DContent",2896,21953,0.0930171
+"C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/enemigo1.png","C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/bin/Windows/enemigo1.xnb","TextureProcessor","Texture2DContent",2541,7301,0.082046
+"C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/fire.wav","C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/bin/Windows/fire.xnb","SoundEffectProcessor","SoundEffectContent",2988,3049,1.569758
+"C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/GameSong.mp3","C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/bin/Windows/GameSong.xnb","SongProcessor","SongContent",436908,126,2.30089

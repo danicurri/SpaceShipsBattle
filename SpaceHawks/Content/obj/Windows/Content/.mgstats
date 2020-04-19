@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/../../PICS/nave.png","C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/nave.xnb","TextureProcessor","Texture2DContent",896,25429,2.011251
+"C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/Arial.spritefont","C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2008,70673,1.473181
+"C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/disparo.png","C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/disparo.xnb","TextureProcessor","Texture2DContent",150,1109,0.0979935
+"C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/enemigo.jpg","C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/enemigo.xnb","TextureProcessor","Texture2DContent",2896,21953,0.1633831
+"C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/enemigo1.png","C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/enemigo1.xnb","TextureProcessor","Texture2DContent",2541,7301,0.0550293
+"C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/fire.wav","C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/fire.xnb","SoundEffectProcessor","SoundEffectContent",2988,3049,3.349063
+"C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/GameSong.mp3","C:/Users/CRISTINA/Desktop/Galaga - Udemy/SpaceHawks/Content/bin/Windows/Content/GameSong.xnb","SongProcessor","SongContent",436908,126,1.143555

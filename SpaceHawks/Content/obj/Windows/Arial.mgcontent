@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2020-02-15T22:19:01.8260307+01:00</SourceTime>
+  <DestFile>C:/Users/CRISTINA/Desktop/Galaga - Version2/SpaceHawks/Content/bin/Windows/Arial.xnb</DestFile>
+  <DestTime>2020-02-20T20:03:28.6786152+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
